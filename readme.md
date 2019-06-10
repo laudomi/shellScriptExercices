@@ -21,10 +21,10 @@
 **Exercise 7:** Write a script that asks the user for a value of the numeric day of the month _(from 1 to 30)_ and show on the screen what day of the week it is, assuming that day 1 is Monday. For any value entered out of range, a message will be displayed and it will be requested again.
 
 **Exercise 8:** Write a Shell script that creates a directory structure similar to the following image for the names found in the file [names.txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/names.txt), and taking into account an X number of personal subdirectories that must be created _(for the case of the image, X = 3)_. The value of the X will be entered by the user as a parameter to the script call. For example, if we want to create 3 subdirectories we would make the following call: ```./nameOfTheScript.sh 3```
-![Directory Structure](https://github.com/laudomi/shellScriptingExercices/blob/master/files/directoryStructure.png)
+![Directory Structure](hhttps://github.com/laudomi/shellScriptingExercices/blob/master/files/directoryStructure%20.png)
 
 
-**Exercise 9:** In the [rainfalls..txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/rainfalls.txt)file there is a series of lines that indicate the day and the amount of liters that has rained. In this exercise you will have to create a script that shows on the screen the mean rainfall as seen in the following execution:
+**Exercise 9:** In the [rainfalls.txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/rainfalls.txt)file there is a series of lines that indicate the day and the amount of liters that has rained. In this exercise you will have to create a script that shows on the screen the mean rainfall as seen in the following execution:
 
 **Exersice 10:** Write a script with the file [rainfalls.txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/rainfalls.txt)that shows by screen the list of days that it did not rain, assuming that the first is Monday.
 

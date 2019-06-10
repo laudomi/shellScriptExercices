@@ -1,5 +1,5 @@
 # Shell Scripting basic exercises 
-#### may/2019
+##### may/2019
 
 **Exercise 1:** Write a script that asks the user for two values, showing a message of which is the greatest or if they are the same.
 
@@ -20,15 +20,17 @@
 
 **Exercise 7:** Write a script that asks the user for a value of the numeric day of the month _(from 1 to 30)_ and show on the screen what day of the week it is, assuming that day 1 is Monday. For any value entered out of range, a message will be displayed and it will be requested again.
 
-**Exercise 8:** Write a Shell script that creates a directory structure similar to the following for the names found in the file _names.txt_, and taking into account an X number of personal subdirectories that must be created _(for the case of the image, X = 3)_. The value of the X will be entered by the user as a parameter to the script call. For example, if we want to create 3 subdirectories we would make the following call: ./script.sh 3
+**Exercise 8:** Write a Shell script that creates a directory structure similar to the following image for the names found in the file [names.txt] (https://github.com/laudomi/shellScriptingExercices/blob/master/files/names.txt), and taking into account an X number of personal subdirectories that must be created _(for the case of the image, X = 3)_. The value of the X will be entered by the user as a parameter to the script call. For example, if we want to create 3 subdirectories we would make the following call: ```./nameOfTheScript.sh 3```
+![](directoryStructure.png)
 
-**Exercise 9:** In the _precipitations.txt_ file there is a series of lines that indicate the day and the amount of liters that has rained. In this exercise you will have to create a script that shows on the screen the mean rainfall as seen in the following execution:
 
-**Exersice 10:** Write a script with the file _precipitaciones.txt_ that shows by screen the list of days that it did not rain, assuming that the first is Monday.
+**Exercise 9:** In the [rainfalls..txt] (https://github.com/laudomi/shellScriptingExercices/blob/master/files/rainfalls.txt)file there is a series of lines that indicate the day and the amount of liters that has rained. In this exercise you will have to create a script that shows on the screen the mean rainfall as seen in the following execution:
 
-**Exercise 11:** Write a script that shows a list of the even numbers in the file numeros.txt as well as a list of the odd numbers. In addition, you must show the total of each type.
+**Exersice 10:** Write a script with the file [rainfalls.txt] (https://github.com/laudomi/shellScriptingExercices/blob/master/files/rainfalls.txt)that shows by screen the list of days that it did not rain, assuming that the first is Monday.
 
-**Exercise 12:** Write a script that processes the file listing.txt. Each line of this file has a user, an operating system and a numerical value that indicates the number of processes that user has in execution in this system. What the script is intended to do is to scroll through the file lines and calculate how many users have Linux, how many Windows and the total number of processes in each system. The result of the script should be something like:
+**Exercise 11:** Write a script that shows a list of the even numbers in the file [numbers.txt] (https://github.com/laudomi/shellScriptingExercices/blob/master/files/numbers.txt)as well as a list of the odd numbers. In addition, you must show the total of each type.
+
+**Exercise 12:** Write a script that processes the file [listing.txt] (https://github.com/laudomi/shellScriptingExercices/blob/master/files/listing.txt). Each line of this file has a user, an operating system and a numerical value that indicates the number of processes that user has in execution in this system. What the script is intended to do is to scroll through the file lines and calculate how many users have Linux, how many Windows and the total number of processes in each system. The result of the script should be something like:
 
 **Exercise 13:** Write a script that simulates a command to erase .txt files. For this, the script has to receive a directory by parameter and it has to delete all files with the .txt extension that directory has, showing at the end, a message with the number of files that have been deleted:
 

@@ -26,9 +26,9 @@
 
 **Exercise 9:** In the [rainfalls.txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/rainfalls.txt)file there is a series of lines that indicate the day and the amount of liters that has rained. In this exercise you will have to create a script that shows on the screen the mean rainfall as seen in the following execution:
 
-**Exersice 10:** Write a script with the file [rainfalls.txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/rainfalls.txt)that shows by screen the list of days that it did not rain, assuming that the first is Monday.
+**Exersice 10:** Write a script with the file [rainfalls.txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/rainfalls.txt) that shows by screen the list of days that it did not rain, assuming that the first is Monday.
 
-**Exercise 11:** Write a script that shows a list of the even numbers in the file [numbers.txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/numbers.txt)as well as a list of the odd numbers. In addition, you must show the total of each type.
+**Exercise 11:** Write a script that shows a list of the even numbers in the file [numbers.txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/numbers.txt) as well as a list of the odd numbers. In addition, you must show the total of each type.
 
 **Exercise 12:** Write a script that processes the file [listing.txt](https://github.com/laudomi/shellScriptingExercices/blob/master/files/listing.txt). Each line of this file has a user, an operating system and a numerical value that indicates the number of processes that user has in execution in this system. What the script is intended to do is to scroll through the file lines and calculate how many users have Linux, how many Windows and the total number of processes in each system. The result of the script should be something like:
 
